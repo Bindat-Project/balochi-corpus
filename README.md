@@ -1,6 +1,6 @@
 # Balochi Corpus
 
-This repository contains text data for the Balochi language in both Arabic and Roman (Latin) scripts, as well as a web scraper for collecting and cleaning Balochi text from online sources.
+This repository contains text data for the Balochi language in both Arabic and Roman (Latin) scripts.
 
 ## Structure
 
